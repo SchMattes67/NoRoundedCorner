@@ -6,4 +6,4 @@ Before<br>
 ![grafik](https://github.com/SchMattes67/NoRoundedCorner/assets/168335359/e31def7f-0f7c-4a05-a159-fa83601b3721)
 
 With this app.<br>
-![grafik](https://github.com/SchMattes67/NoRoundedCorner/assets/168335359/f54e734d-fa86-4863-aaaf-1ecb4800c657)
+![grafik](https://github.com/SchMattes67/NoRoundedCorner/assets/168335359/f5db0188-3f0f-4189-a7ae-8486b4fa6df2)
